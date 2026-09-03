@@ -19,3 +19,7 @@ Public core under **AGPL-3.0** (SaaS loophole closed) · private enterprise asse
 - [governor-layer](https://github.com/ceyptoslim/governor-layer) — earliest public articulation of pre-execution governance (June 2026)
 - [CUSTOS](https://github.com/ceyptoslim/CUSTOS) — first CUSTOS-branded concept repo
 - [LORL-6AC](https://github.com/ceyptoslim/LORL-6AC) — autonomous research platform concept
+
+## Lineage
+
+Design-to-implementation lineage is documented in-repo: the Treaty Engine's April 2026 design origins vs. the shipped deterministic state machine — [LORL-9.1 docs/PROVENANCE.md](https://github.com/ceyptoslim/LORL-9.1/blob/main/docs/PROVENANCE.md).
