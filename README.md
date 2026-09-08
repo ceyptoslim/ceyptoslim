@@ -1,4 +1,4 @@
-# Cryptoslim
+# Tavares Heath aka Cryptoslim 
 
 Builder of **CUSTOS** — pre-execution governance for autonomous AI agents.
 
