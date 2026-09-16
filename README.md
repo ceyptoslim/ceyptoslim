@@ -6,7 +6,7 @@ Builder of **CUSTOS** — pre-execution governance for autonomous AI agents.
 
 ## Active projects
 
-- **[CUSTOS-CORE](https://github.com/ceyptoslim/CUSTOS-CORE)** — AI execution firewall: regex / OPA / hybrid policy engines, per-tenant isolation, rate limiting, hash-chained audit, SSRF hardening, circuit breakers. FastAPI · 380 tests · 11 releases · 5 CI gates. AGPL-3.0.
+- **[CUSTOS-CORE](https://github.com/ceyptoslim/CUSTOS-CORE)** — AI execution firewall: regex / OPA / hybrid policy engines, per-tenant isolation, rate limiting, hash-chained audit, SSRF hardening, circuit breakers. FastAPI · 470 tests · 12 releases · 6 CI gates. AGPL-3.0.
 - **[LORL-9.1](https://github.com/ceyptoslim/LORL-9.1)** — autonomous-agent application layer with fail-closed CUSTOS governance, treaty engine, Ed25519 agent identities, hash-linked event ledger. AGPL-3.0.
 - **custos-enterprise** — private assembly layer: pre-assembled /v1/execute enforcement, deployment, support.
 
